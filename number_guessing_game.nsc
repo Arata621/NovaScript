@@ -1,0 +1,7 @@
+secret = 7
+guess = input "Guess a number: "
+if guess == secret
+    print "You guessed right!"
+else
+    print "Try again!"
+endif
