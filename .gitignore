@@ -1,0 +1,41 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Ignore Virtual Environment
+venv/
+env/
+
+# Ignore Logs & Output files
+logs/
+*.log
+debug.log
+
+# Ignore System & Editor-specific files
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore NovaScript Compiled Files (if any)
+*.nscout
+*.nscbin
+
+# Ignore Test Coverage Reports
+.coverage
+coverage.xml
+htmlcov/
+
+# Ignore Build/Distribution files
+build/
+dist/
+*.egg-info/
+
+# Ignore docs build (if using Sphinx)
+docs/_build/
