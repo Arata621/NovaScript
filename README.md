@@ -1,3 +1,8 @@
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-orange)
+![For Education](https://img.shields.io/badge/For-Education-brightgreen)
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Code Style: NovaScript](https://img.shields.io/badge/code%20style-NovaScript-blueviolet)
 # NovaScript
 ## Table of Contents
 1. Introduction
