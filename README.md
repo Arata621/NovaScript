@@ -1,5 +1,4 @@
-# NovaScript - Beginner-Friendly Programming Language
-
+# NovaScript
 ## Table of Contents
 1. Introduction
 2. Language Overview
