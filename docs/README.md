@@ -1,3 +1,5 @@
+![Nova Script Logo](https://raw.githubusercontent.com/Arata621/novascriptlang/main/images/novascriptlogo-banner.png?raw=true)
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 ![For Education](https://img.shields.io/badge/For-Education-brightgreen)
