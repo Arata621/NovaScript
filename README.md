@@ -3,7 +3,6 @@
 ![For Education](https://img.shields.io/badge/For-Education-brightgreen)
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Code Style: NovaScript](https://img.shields.io/badge/code%20style-NovaScript-blueviolet)
-![Discord](https://img.shields.io/discord/1342937748494876715?color=5865F2&logo=discord&logoColor=white)
 
 # NovaScript
 ## Table of Contents
